@@ -4,6 +4,8 @@
 1. Registration
 2. Login
 3. HomeScreen
-    a. Add new entry.
+<br> a. Add new entry.
+
+Reference: https://www.freecodecamp.org/news/react-native-firebase-tutorial/
 
 ### Note: Adding logout functionality soon.
